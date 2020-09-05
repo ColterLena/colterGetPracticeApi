@@ -1,4 +1,4 @@
-# colterGetPracticeApi
+# Get Practice API: A C# and .NET API
 ## Objectives
 
 - Create a simple API
